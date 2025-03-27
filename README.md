@@ -11,3 +11,4 @@ Report 5b contributions: For the report, what generally happened is that Austin 
 
 Amrish Individual Colab - https://colab.research.google.com/github/VaibhavShintre/Introduction-to-Data-Science/blob/main/Amrish_Copy_individual_work_CSC_442_Project_Group_10.ipynb#scrollTo=4PNlCkqpCLse 
 
+Austin Individual Colab - https://colab.research.google.com/github/VaibhavShintre/Introduction-to-Data-Science/blob/main/CSC_442_Project_Group_10_Austin_Individual.ipynb#scrollTo=5eNWzlP94i54
